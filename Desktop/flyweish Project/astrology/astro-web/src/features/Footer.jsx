@@ -3,6 +3,7 @@ function Footer() {
     <footer 
       className="bg-gradient-to-r from-[#0C4292] to-[#481299] text-white py-12"
     >
+      
       <div className="max-w-[1400px] mx-auto px-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Column 1: Logo and Description */}
