@@ -38,3 +38,4 @@ function ZodiacSign({ name, iconName, image }) {
 
 export default ZodiacSign;
 
+
